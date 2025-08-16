@@ -24,7 +24,7 @@
 
 <!-- 詳細は箇条書き or テーブルで。Credlyの公開リンクがあれば入れると信頼度UP -->
 | 資格 | バージョン | 取得日  | 検証 |
-|---|---|---:|---|---|
+|---|---|---:|---|
 | AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/あなた) |
 | AWS Certified Developer – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/あなた) |
 
