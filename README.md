@@ -6,8 +6,8 @@
 
 <!-- SNSやポートフォリオがあればここにバッジで -->
 <p align="center">
-  <a href="https://github.com/あなたのID"><img alt="GitHub followers" src="https://img.shields.io/github/followers/あなたのID?style=social"></a>
-  <a href="https://www.linkedin.com/in/8aa86a291/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ganonononon"><img alt="GitHub followers" src="https://img.shields.io/github/followers/あなたのID?style=social"></a>
+  <a href="https://www.linkedin.com/in/智大-面谷-8aa86a291/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
