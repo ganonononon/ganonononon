@@ -23,25 +23,21 @@
 </p>
 
 <!-- 詳細は箇条書き or テーブルで。Credlyの公開リンクがあれば入れると信頼度UP -->
-| 資格 | バージョン | 取得日 | 認定番号 | 検証 |
+| 資格 | バージョン | 取得日  | 検証 |
 |---|---|---:|---|---|
-| AWS Certified Solutions Architect – Associate | SAA‑C03 | 2025-07 | ABCD-1234 | [Credly](https://www.credly.com/users/あなた) |
-| AWS Certified Developer – Associate | DVA‑C02 | 2025-05 | EFGH-5678 | [Credly](https://www.credly.com/users/あなた) |
+| AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/あなた) |
+| AWS Certified Developer – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/あなた) |
 
 > ※ 公式ロゴ画像の直接貼り付けは商標ポリシーに注意。上の **shields.io** 形式はロゴ（simple-iconsのAWS）を使った汎用バッジで安全側です。
 
 ---
 
 ## 🧑‍💻 About Me
-- Java / Python / TypeScript / AWS（ECS, RDS, Lambda, Terraform…）
-- 野球観戦（カープ）、ライブ（ヨルシカ / サカナクション / BUMP）
-- いまは◯◯を勉強中
-
-## 🔭 Recent Projects
-- プロジェクトA – 簡単説明（リンク）
-- プロジェクトB – 簡単説明（リンク）
+- Java / Python / TypeScript / AWS（Terraform）
+- 野球観戦（カープ）、ライブ（ヨルシカ / サカナクション / BUMP OF CHICKEN）
+- いまはKaggleで高得点を目指してPythonと機械学習を勉強中
 
 ## 📫 Contact
-- X(Twitter): [@yourhandle](https://x.com/yourhandle)
+- X(Twitter): [@ganon_cloud777](https://x.com/ganon_cloud777)
 - Blog: https://example.com
 
