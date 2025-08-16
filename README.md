@@ -7,7 +7,7 @@
 <!-- SNSやポートフォリオがあればここにバッジで -->
 <p align="center">
   <a href="https://github.com/あなたのID"><img alt="GitHub followers" src="https://img.shields.io/github/followers/あなたのID?style=social"></a>
-  <a href="https://www.linkedin.com/in/あなたのID/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/あなたのID/"><img alt="LinkedIn" src="https://www.linkedin.com/in/%E6%99%BA%E5%A4%A7-%E9%9D%A2%E8%B0%B7-8aa86a291/"></a>
 </p>
 
 ---
