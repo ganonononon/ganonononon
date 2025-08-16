@@ -17,8 +17,6 @@
 <!-- 代表資格はバッジでドン -->
 <p>
   <img alt="SAA" src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20(Associate)-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="DVA" src="https://img.shields.io/badge/AWS%20Certified-Developer%20(Associate)-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="SOA" src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator%20(Associate)-232F3E?logo=amazonaws&logoColor=white">
   <!-- 他にも: SAA-C03 / DVA-C02 / SOA-C02 / SAP-C02 / DAS-C01 / SCS-C02 など -->
 </p>
 
@@ -39,5 +37,5 @@
 
 ## 📫 Contact
 - X(Twitter): [@ganon_cloud777](https://x.com/ganon_cloud777)
-- Blog: https://example.com
+- Blog: [https://example.com](https://qiita.com/cchihiro802)
 
