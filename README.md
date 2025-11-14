@@ -14,12 +14,6 @@
 
 ## 🏅 AWS Certifications
 
-<!-- 代表資格はバッジでドン -->
-<p>
-  <img alt="SAA" src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20(Associate)-232F3E?logo=amazonaws&logoColor=white">
-  <!-- 他にも: SAA-C03 / DVA-C02 / SOA-C02 / SAP-C02 / DAS-C01 / SCS-C02 など -->
-</p>
-
 <!-- 詳細は箇条書き or テーブルで。Credlyの公開リンクがあれば入れると信頼度UP -->
 | 資格 | バージョン | 取得日  | 検証 |
 |---|---|---:|---|
