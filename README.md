@@ -23,12 +23,11 @@
 <!-- 詳細は箇条書き or テーブルで。Credlyの公開リンクがあれば入れると信頼度UP -->
 | 資格 | バージョン | 取得日  | 検証 |
 |---|---|---:|---|
-| AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/あなた) |
-| AWS Certified Developer – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/あなた) |
+| AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
+| AWS Certified Developer – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
 
-> ※ 公式ロゴ画像の直接貼り付けは商標ポリシーに注意。上の **shields.io** 形式はロゴ（simple-iconsのAWS）を使った汎用バッジで安全側です。
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9329a9da-e536-4f43-800e-97fcfd9f7f9b" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f4c789cb-d913-4219-999c-995a9fc8de94" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9329a9da-e536-4f43-800e-97fcfd9f7f9b" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f4c789cb-d913-4219-999c-995a9fc8de94" />
 
 ---
 
