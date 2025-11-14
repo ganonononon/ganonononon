@@ -24,7 +24,7 @@
 | 資格 | バージョン | 取得日  | 検証 |
 |---|---|---:|---|
 | AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
-| AWS Certified Developer – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
+| AWS Certified Solutions Architect – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9329a9da-e536-4f43-800e-97fcfd9f7f9b" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f4c789cb-d913-4219-999c-995a9fc8de94" />
