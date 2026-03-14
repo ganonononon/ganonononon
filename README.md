@@ -19,11 +19,11 @@
 |---|---|---:|---|
 | AWS Certified Cloud Practitioner  – Foundational | CFL‑C02 | 2025-07  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
 | AWS Certified Solutions Architect – Associate | DVA‑C02 | 2025-05  | [Credly](https://www.credly.com/users/chihiro.omodani.0d057364) |
-| Google Cloud Professional Cloud Developer | PCD | 2026-01 | https://www.credly.com/earner/earned/badge/1f299a75-54aa-412e-bb4b-2618932e34ce |
+| Google Cloud Professional Cloud Developer | PCD | 2026-01 | [Credly](https://www.credly.com/badges/1f299a75-54aa-412e-bb4b-2618932e34ce) |
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9329a9da-e536-4f43-800e-97fcfd9f7f9b" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f4c789cb-d913-4219-999c-995a9fc8de94" />
-<img width="100" height="100" alt="image" src="https://images.credly.com/size/680x680/images/10227907-54b6-466f-a52c-1a26948f0aaf" />
+<img width="100" height="100" alt="image" src="https://images.credly.com/size/680x680/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" />
 ---
 
 ## 🧑‍💻 About Me
